@@ -11,8 +11,6 @@ Listedeki ada çift tıklanınca bilgiler ekrana geliyor. Kaydet ve Güncelle ay
 Sonunda docx uzantılı belgenin ön izleme çıktısı LibreOffice Writer Ön İzleme butonuna basınca gösteriyor. 
 İnce ayar docx belgesi üzerinde yapılabilir.
 
-Program hakkında görüşleriniz benim için yol gösterici olacaktır.
-
 Umarım beğenirsiniz.
 
 Dualarınız yeterlidir.
